@@ -1,4 +1,12 @@
 package cuentas;
+/**
+ * 
+ * @author cmolano
+ * @version 2.1
+ * 
+ * */
+
+
 public class Main {
 
     public static void main(String[] args) {
